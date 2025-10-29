@@ -6,7 +6,7 @@ Ben, **Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı** ön lisans 
 
 ---
 
-## 🛠️ Şu Anki Alet Çantam & Uğraşlarım
+## 🛠️ Şu Anki Uğraşlarım
 
 * **Dil & Platform:** **C#** ve **.NET (ASP.NET Core, Entity Framework Core)**  ile haşır neşirim. Özellikle web'in arka yüzünde, verinin mantıkla buluştuğu o karmaşık ama tatmin edici dünyada geziniyorum.
 * **Güncel Projem:** Şu sıralar **"Teklif Sepeti"** [user_context] adında, KOBİ'ler ve freelancerlar için teklif oluşturma sürecini basitleştirmeyi hedefleyen bir MVP üzerinde çalışıyorum. (Bu repo'yu inceleyebilirsin: `https://github.com/BalciAbdulkadir/Teklif_Sepeti`)
@@ -24,7 +24,7 @@ Benim için yazılım geliştirme, sadece talimatları koda dökmek değil. Sür
 * **LinkedIn:** `https://www.linkedin.com/in/abdülkadir-balcı`
 * **E-posta:** `balciabdulkadir61@gmail.com`
 
----
+
 
 "Show me the code" diyorsan, repolarıma göz at.
 
@@ -39,7 +39,7 @@ I am an associate degree graduate of **Karadeniz Technical University in Compute
 
 ---
 
-## 🛠️ My Current Toolkit & Endeavors
+## 🛠️ My Endeavors
 
 * **Language & Platform:** I'm heavily involved with **C#** and **.NET (ASP.NET Core, Entity Framework Core)**. I particularly navigate the complex yet satisfying world of the web backend, where data meets logic.
 * **Current Project:** I'm currently working on an MVP called **"Teklif Sepeti" (Quote Basket)**, aiming to simplify the quote creation process for SMEs and freelancers. (You can check out this repo: `https://github.com/BalciAbdulkadir/Teklif_Sepeti`)
@@ -56,6 +56,6 @@ For me, software development is not just about translating instructions into cod
 * **LinkedIn:** `https://www.linkedin.com/in/abdülkadir-balcı`
 * **E-mail:** `balciabdulkadir61@gmail.com`
 
----
+
 
 If you're saying "Show me the code," feel free to browse my repositories.
