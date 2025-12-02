@@ -53,7 +53,7 @@ For me, software development is not just about translating instructions into cod
 ## 📫 Get In Touch
 
 * **GitHub:** You're already on my profile. You can write via Issues or Discussions.
-* **LinkedIn:** `https://www.linkedin.com/in/abdülkadir-balcı`
+* **LinkedIn:** https://www.linkedin.com/in/abdülkadir-balcı
 * **E-mail:** `balciabdulkadir61@gmail.com`
 
 
