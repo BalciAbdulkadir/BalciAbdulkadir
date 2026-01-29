@@ -35,25 +35,33 @@ Greetings, I'm Abdülkadir Balcı 👋
 You are here because you either stumbled upon my code or decided to review my profile as a potential employer. In both cases, welcome.
 
 I am a Computer Programming graduate from Karadeniz Technical University, a software developer dedicated to continuous learning and self-improvement. I don't just write code; I focus on learning by exploring new technologies and building real-world projects.
+
+---
+
 🛠️ Current Focus & Skills
 
-    Languages & Platforms: I develop Android-focused projects using Flutter & Dart. I am also proficient in C# and .NET (ASP.NET Core, Entity Framework Core), navigating the complex yet satisfying world of backend development where data meets logic.
+Languages & Platforms: I develop Android-focused projects using Flutter & Dart. I am also proficient in C# and .NET (ASP.NET Core, Entity Framework Core), navigating the complex yet satisfying world of backend development where data meets logic.
 
-    Ongoing Projects:
+Ongoing Projects:
 
-        Neo Card: An NFC-based digital business card application. (Check it out: Neo_Card)
+Neo Card: An NFC-based digital business card application. (Check it out: [Neo_Card](https://github.com/BalciAbdulkadir/Neo_Card))
 
-        Ezan Vakti: A prayer times application for the Android platform. (Check it out: Ezan_Vakti)
+Ezan Vakti: A prayer times application for the Android platform. (Check it out: [Ezan_Vakti](https://github.com/BalciAbdulkadir/Ezan_Vakti))
 
-    Theory & Practice: I value the principles and architectural patterns behind the code as much as the code itself. I am always searching for the answer to "Why is this approach better?" 
+Theory & Practice: I value the principles and architectural patterns behind the code as much as the code itself. I am always searching for the answer to "Why is this approach better?" 
+
+---
 
 For me, software development is more than just turning instructions into syntax. Instead of constant validation, I prefer to be challenged and criticized. If you spot a weakness, a contradiction, or a flaw in my code or approach, do not hesitate to call it out. That is the only way I can truly improve myself and my craft.
+
+---
+
 📫 Reach Me
 
-    GitHub: You are already here. Feel free to use Issues or Discussions.
+GitHub: You are already here. Feel free to use Issues or Discussions.
 
-    LinkedIn: linkedin.com/in/abdülkadir-balcı
+LinkedIn: linkedin.com/in/abdülkadir-balcı
 
-    Email: balciabdulkadir61@gmail.com 
+Email: balciabdulkadir61@gmail.com 
 
 "Show me the code" — Feel free to explore my repositories.
