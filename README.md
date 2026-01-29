@@ -1,4 +1,4 @@
-# Selamlar, Ben Abdülkadir Balcı 👋
+# Selamlar, Ben Abdülkadir Balcı 
 
 Buradasın çünkü ya koduma denk geldin ya da işveren olarak profilimi inceleme kararı aldın. İki durumda da hoş geldin.
 
@@ -8,9 +8,8 @@ Ben, **Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı** ön lisans 
 
 ## 🛠️ Şu Anki Uğraşlarım
 
-* **Dil & Platform:** **C#** ve **.NET (ASP.NET Core, Entity Framework Core)**  ile haşır neşirim. Özellikle web'in arka yüzünde, verinin mantıkla buluştuğu o karmaşık ama tatmin edici dünyada geziniyorum.
-* **Güncel Projem:** Şu sıralar **"Teklif Sepeti"** adında, KOBİ'ler ve freelancerlar için teklif oluşturma sürecini basitleştirmeyi hedefleyen bir MVP üzerinde çalışıyorum. (Bu repo'yu inceleyebilirsin: https://github.com/BalciAbdulkadir/Teklif_Sepeti) Ayrıca **Ezan Vakti** isimli Android Platformuna yönelik bir namaz vakti uygulaması üzerinde de çalışmaya başladım. (Bu repo'yu inceleyebilirsin: https://github.com/BalciAbdulkadir/Ezan_Vakti)
-* **Öğrenme & Gelişim:** **Web backend**'e odaklanmış olsam da, **genel IT altyapıları, ağ sistemleri ve siber güvenlik gibi konulara da ilgi duyuyorum** ve yazılımın farklı alanlarını keşfetmeye çalışıyorum.
+* **Dil & Platform:** **Flutter & Dart** ile özellikle android alanında projeler geliştiriyorum.  **C#** ve **.NET (ASP.NET Core, Entity Framework Core)**  ile de haşır neşirim. Özellikle web'in arka yüzünde, verinin mantıkla buluştuğu o karmaşık ama tatmin edici dünyada geziniyorum.
+* **Güncel Projem:** Şu sıralar **"Neo Card"** adında bir NFC Kartvizit uygulaması üzerinde çalışıyorum. (Bu repo'yu inceleyebilirsin: https://github.com/BalciAbdulkadir/Neo_Card) Ayrıca **Ezan Vakti** isimli Android Platformuna yönelik bir namaz vakti uygulaması üzerinde de çalışmaya başladım. (Bu repo'yu inceleyebilirsin: https://github.com/BalciAbdulkadir/Ezan_Vakti)
 * **Teori & Pratik Dengesi:** Kod yazmak kadar, o kodun altında yatan prensipleri, mimari desenleri ve "neden bu yol daha iyi?" sorusunun cevabını da önemsiyorum.
 
 ---
@@ -31,31 +30,30 @@ Benim için yazılım geliştirme, sadece talimatları koda dökmek değil. Sür
 --------
 #ENG
 
-# Greetings, I'm Abdülkadir Balcı 👋
+Greetings, I'm Abdülkadir Balcı 👋
 
-You're here either because you stumbled upon my code or you've decided to review my profile as an employer. In either case, welcome.
+You are here because you either stumbled upon my code or decided to review my profile as a potential employer. In both cases, welcome.
 
-I am an associate degree graduate of **Karadeniz Technical University in Computer Programming**, a software developer constantly striving to learn and improve. I don't just write code; I focus on learning by exploring new technologies and developing projects.
+I am a Computer Programming graduate from Karadeniz Technical University, a software developer dedicated to continuous learning and self-improvement. I don't just write code; I focus on learning by exploring new technologies and building real-world projects.
+🛠️ Current Focus & Skills
 
----
+    Languages & Platforms: I develop Android-focused projects using Flutter & Dart. I am also proficient in C# and .NET (ASP.NET Core, Entity Framework Core), navigating the complex yet satisfying world of backend development where data meets logic.
 
-## 🛠️ My Endeavors
+    Ongoing Projects:
 
-* **Language & Platform:** I'm heavily involved with **C#** and **.NET (ASP.NET Core, Entity Framework Core)**. I particularly navigate the complex yet satisfying world of the web backend, where data meets logic.
-* **Current Project:** I'm currently working on an MVP called **"Teklif Sepeti" (Quote Basket)**, aiming to simplify the quote creation process for SMEs and freelancers. (You can check out this repo: https://github.com/BalciAbdulkadir/Teklif_Sepeti) I have also started working on an Android app called **Ezan Vakti** for prayer times. (You can check out this repository: https://github.com/BalciAbdulkadir/Ezan_Vakti)
-* **Learning & Development:** Although my focus is on **web backend**, **I am also interested in general IT topics such as infrastructure, network systems, and cybersecurity**, and I am trying to explore different areas of software.
-* **Theory & Practice Balance:** As much as writing code, I also value understanding the underlying principles, architectural patterns, and the answer to the question "why is this approach better?".
+        Neo Card: An NFC-based digital business card application. (Check it out: Neo_Card)
 
----
+        Ezan Vakti: A prayer times application for the Android platform. (Check it out: Ezan_Vakti)
 
-For me, software development is not just about translating instructions into code. Instead of constant approval, I prefer to be challenged, criticized, and have the foundations of my ideas questioned. If you see a weakness or contradiction in my code or approach, don't hesitate to point it out. Only in this way can I improve myself and my work.
+    Theory & Practice: I value the principles and architectural patterns behind the code as much as the code itself. I am always searching for the answer to "Why is this approach better?" 
 
-## 📫 Get In Touch
+For me, software development is more than just turning instructions into syntax. Instead of constant validation, I prefer to be challenged and criticized. If you spot a weakness, a contradiction, or a flaw in my code or approach, do not hesitate to call it out. That is the only way I can truly improve myself and my craft.
+📫 Reach Me
 
-* **GitHub:** You're already on my profile. You can write via Issues or Discussions.
-* **LinkedIn:** https://www.linkedin.com/in/abdülkadir-balcı
-* **E-mail:** balciabdulkadir61@gmail.com
+    GitHub: You are already here. Feel free to use Issues or Discussions.
 
+    LinkedIn: linkedin.com/in/abdülkadir-balcı
 
+    Email: balciabdulkadir61@gmail.com 
 
-If you're saying "Show me the code," feel free to browse my repositories.
+"Show me the code" — Feel free to explore my repositories.
