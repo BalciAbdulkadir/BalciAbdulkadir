@@ -9,7 +9,7 @@ Ben, **Karadeniz Teknik Üniversitesi Bilgisayar Programcılığı** ön lisans 
 ## 🛠️ Şu Anki Uğraşlarım
 
 * **Dil & Platform:** **Flutter & Dart** ile özellikle android alanında projeler geliştiriyorum.  **C#** ve **.NET (ASP.NET Core, Entity Framework Core)**  ile de haşır neşirim. Özellikle web'in arka yüzünde, verinin mantıkla buluştuğu o karmaşık ama tatmin edici dünyada geziniyorum.
-* **Güncel Projem:** Şu sıralar **"Neo Card"** adında bir NFC Kartvizit uygulaması üzerinde çalışıyorum. (Bu repo'yu inceleyebilirsin: [Neo_Card](https://github.com/BalciAbdulkadir/Neo_Card)) Ayrıca **Ezan Vakti** isimli Android Platformuna yönelik bir namaz vakti uygulaması üzerinde de çalışmaya başladım. (Bu repo'yu inceleyebilirsin: [Ezan_Vakti](https://github.com/BalciAbdulkadir/Ezan_Vakti))
+* **Güncel Projem:** Şu sıralar **"Neo Card"** adında bir NFC Kartvizit uygulaması üzerinde çalışıyorum. (Bu repo'yu inceleyebilirsin: [Neo_Card](https://github.com/BalciAbdulkadir/Neo_Card))
 * **Teori & Pratik Dengesi:** Kod yazmak kadar, o kodun altında yatan prensipleri, mimari desenleri ve "neden bu yol daha iyi?" sorusunun cevabını da önemsiyorum.
 
 ---
@@ -46,7 +46,6 @@ Ongoing Projects:
 
 Neo Card: An NFC-based digital business card application. (Check it out: [Neo_Card](https://github.com/BalciAbdulkadir/Neo_Card))
 
-Ezan Vakti: A prayer times application for the Android platform. (Check it out: [Ezan_Vakti](https://github.com/BalciAbdulkadir/Ezan_Vakti))
 
 Theory & Practice: I value the principles and architectural patterns behind the code as much as the code itself. I am always searching for the answer to "Why is this approach better?" 
 
