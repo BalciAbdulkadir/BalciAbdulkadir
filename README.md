@@ -21,7 +21,7 @@ Benim için yazılım geliştirme, sadece talimatları koda dökmek değil. Sür
 
 * **GitHub:** Profilimdesin zaten. Issues veya Discussions üzerinden yazabilirsin.
 * **LinkedIn:** [linkedin.com/in/abdülkadir-balcı](https://www.linkedin.com/in/abdülkadir-balcı)
-* **E-posta:** balciabdulkadir61@gmail.com
+* **E-posta:** balcidev@outlook.com
 
 
 
@@ -61,6 +61,6 @@ GitHub: You are already here. Feel free to use Issues or Discussions.
 
 LinkedIn: [linkedin.com/in/abdülkadir-balcı](https://www.linkedin.com/in/abdülkadir-balcı)
 
-Email: balciabdulkadir61@gmail.com 
+Email: balcidev@outlook.com
 
 "Show me the code" — Feel free to explore my repositories.
